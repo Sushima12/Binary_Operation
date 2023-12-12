@@ -13,7 +13,7 @@
 def main():
     while(True):
         print('\n=========================================================================================\n')
-        print('1-bit Binary Addition')
+        print('Binary Addition of 2 1-bit binary numbers')
         A = input('Enter a 1-bit binary number for A (1 or 0): ')
         B = input('Enter another 1-bit binary number for B (1 or 0): ')
         
